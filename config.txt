@@ -1,0 +1,6 @@
+WIDtH = 10 
+HeIGHT = 10
+eNTry =   1, 0
+EXIT = 9, 9
+OUtPUT_file = output.txt
+PErFECT = false
